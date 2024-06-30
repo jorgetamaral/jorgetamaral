@@ -2,7 +2,7 @@
   <a href="https://jorgetamaral.github.io"><img width="80%" alt="Hola, Soy Jorge Tamaral" src="./assets/readme-header.png" /></a>
 </p>
 
-#### Soy desarollador web Full Stack
+## Soy desarollador web Full Stack
 
 **Sobre mí**
 
