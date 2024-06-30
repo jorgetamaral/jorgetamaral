@@ -1,4 +1,6 @@
-<p align="center"><a href="https://jorgetamaral.github.io"><img width="80%" alt="Hola, Soy Jorge Tamaral" src="./assets/readme-header.png" /></a></p>
+<p align="center">
+  <a href="https://jorgetamaral.github.io"><img width="80%" alt="Hola, Soy Jorge Tamaral" src="./assets/readme-header.png" /></a>
+</p>
 
 <br />
 
@@ -6,9 +8,9 @@ Soy desarollador web Full Stack
 
 **About me**
 
-- 💼 Desarrollador Full Stacj
+- 💼 Desarrollador Full Stack
 
-- ❤️ Me encanta desarrollor webs bonitas
+- ❤️ Me encanta desarrollor webs funcionales y atractivas
 
 - 💬 Pregúntame cualquier cosa [aquí](https://github.com/jorgetamaral/jorgetamaral/issues)
 
@@ -19,9 +21,13 @@ Soy desarollador web Full Stack
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/jorgetamaral/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgetamaral&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de Jorge Tamaral" /></a> 
+| <a href="https://github.com/jorgetamaral/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgetamaral&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de Jorge Tamaral" />
+</a> 
 | 
-  <a href="https://github.com/jorgetamaral/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
+  <a href="https://github.com/jorgetamaral/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+  </a> 
 |
 | 
 ------------- | ------------- |
