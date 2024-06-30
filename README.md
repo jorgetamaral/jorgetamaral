@@ -6,7 +6,7 @@
 
 Soy desarollador web Full Stack
 
-**About me**
+**Sobre mí**
 
 - 💼 Desarrollador Full Stack
 
