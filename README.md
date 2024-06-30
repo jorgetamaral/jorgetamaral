@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jorgetamaral.github.io"><img width="80%" alt="Hola, Soy Jorge Tamaral" src="./assets/readme-header.png" /></a>
+  <a href="https://jorgetamaral.github.io"><img width="80%" height="90%" alt="Hola, Soy Jorge Tamaral" src="./assets/readme-header.png" /></a>
 </p>
 
 ## Soy desarollador web Full Stack
@@ -27,7 +27,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
   </a> 
 |
-| 
-------------- | ------------- |
-
-#### Top Repositories
+| ------------- | ------------- |
